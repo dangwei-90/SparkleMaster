@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="yes"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<channel>
+<title>VPN Proxy Master</title>
+<item>
+<title>8.8</title>
+<pubDate>周一, 11 3月 2019 09:44:51 +0800</pubDate>
+<sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/dangwei-90/SparkleMaster/raw/master/VPN%20Proxy%20Master.zip" sparkle:version="2.0" sparkle:shortVersionString="8.8" length="5056434" type="application/octet-stream" sparkle:edSignature="cKheDnTBv1AKz4NgiE5ptbdeFFy9oKs13iqVm7YcvohPVLHd7hb2XolTHXhSrN/Wll7bJQvHjbwpKYNL+Od8Aw=="/>
+</item>
+</channel></rss>
