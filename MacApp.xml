@@ -16,12 +16,12 @@
             <pubDate>周三, 08 4月 2020 14:24:04 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://raw.githubusercontent.com/dangwei-90/SparkleMaster/master/VPNProxyMaster.pkg"
+                url="https://raw.githubusercontent.com/dangwei-90/SparkleMaster/master/VPNProxyMasterSetup.pkg"
                 sparkle:shortVersionString="1.2.0"
                 sparkle:version="21"
-                length="14530039"
+                length="14536952"
                 type="application/octet-stream"
-                sparkle:edSignature="n4Bcvk/PiU2mlTW+0kyvF5LxAqfp9FoDdyG7bZXSsAwR/3JvmH1icyMExkMuKiR50dhNEgRj4+xMiuy/1qqACw=="
+                sparkle:edSignature="eaw9sHI9Sp4Vp9CqWrvxywM4XT6MEtc0tJ750ADSKaBPjhwSTvC05F4p2THJVU64cwPcipsjrIONrS8QyRCKCQ=="
             />
         </item>
     </channel>
