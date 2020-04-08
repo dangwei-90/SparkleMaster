@@ -6,7 +6,7 @@
             <title>2.2.0</title>
             <pubDate>周三, 08 4月 2020 14:24:04 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
-            <enclosure url="http://0.0.0.0:8000/VPN%20Proxy%20Master.zip" sparkle:version="22" sparkle:shortVersionString="2.2.0" length="15247543" type="application/octet-stream"/>
+            <enclosure url="https://github.com/dangwei-90/SparkleMaster/raw/master/VPN%20Proxy%20Master.zip" sparkle:version="22" sparkle:shortVersionString="2.2.0" edSignature="Cv9UtrHEqmUlr8FvENPcim2l8bQVPxyWa4Mn0o34Sjep3GkEwW7N1e4HnExhS+JPOne/Rgi81zANq8BfkRa8Cw==" length="15247543" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
