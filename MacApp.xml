@@ -5,7 +5,7 @@
         <item>
             <title>2.2.0</title>
             <description>
-                <ul><li>修复问题1</li></ul>
+                <ul><li>修复问题1&#x0A;</li></ul>
                 <ul><li>修复问题2</li></ul>
             </description>
             <pubDate>周三, 08 4月 2020 14:24:04 +0800</pubDate>
