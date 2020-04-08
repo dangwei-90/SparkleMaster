@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>VPN Proxy Master</title>
+        <item>
+            <title>2.2.0</title>
+            <pubDate>周三, 08 4月 2020 14:24:04 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure url="http://0.0.0.0:8000/VPN%20Proxy%20Master.zip" sparkle:version="22" sparkle:shortVersionString="2.2.0" length="15247543" type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
