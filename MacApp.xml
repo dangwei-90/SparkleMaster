@@ -16,12 +16,12 @@
             <pubDate>周三, 08 4月 2020 14:24:04 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://raw.githubusercontent.com/dangwei-90/SparkleMaster/master/VPN%20Proxy%20Master.zip"
+                url="https://raw.githubusercontent.com/dangwei-90/SparkleMaster/master/VPNProxyMaster.pkg"
                 sparkle:shortVersionString="1.2.0"
                 sparkle:version="21"
-                length="14469502"
+                length="14530039"
                 type="application/octet-stream"
-                sparkle:edSignature="vqwcy5Om+O7jSYbxFDKKdh6rAYyWyuollrWmH82at0iLILVmZUd5yDQsQZ4fvtQS/rNqfdyYtP85wyc57U9vBA=="
+                sparkle:edSignature="n4Bcvk/PiU2mlTW+0kyvF5LxAqfp9FoDdyG7bZXSsAwR/3JvmH1icyMExkMuKiR50dhNEgRj4+xMiuy/1qqACw=="
             />
         </item>
     </channel>
