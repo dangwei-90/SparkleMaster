@@ -4,24 +4,16 @@
         <title>title: test update VPN Proxy Master </title>
         <item>
             <title>2.2.0</title>
-            <description>
-                <ul>
-                    <li>修复问题1</li>
-                    <li>修复问题2</li>
-                </ul>
-                <ul>
-                    <li>修复问题3</li>
-                </ul>
-            </description>
+            <description>修复问题1                                                                     修复                32423423</description>
             <pubDate>周三, 08 4月 2020 14:24:04 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://raw.githubusercontent.com/dangwei-90/SparkleMaster/master/VPNProxyMasterSetup.pkg"
+                url="https://raw.githubusercontent.com/dangwei-90/SparkleMaster/master/VPNProxyMaster.pkg"
                 sparkle:shortVersionString="1.2.0"
                 sparkle:version="21"
-                length="14536952"
+                length="13460204"
                 type="application/octet-stream"
-                sparkle:edSignature="eaw9sHI9Sp4Vp9CqWrvxywM4XT6MEtc0tJ750ADSKaBPjhwSTvC05F4p2THJVU64cwPcipsjrIONrS8QyRCKCQ=="
+                sparkle:edSignature="4NEZzWhQDtkzRoW9nszzE3GRHFCoiGcBskHmfhxeZNmbRk6xFJiDfq+JemkEaId9h0As8vjTM2EvJsgNym9nCw=="
             />
         </item>
     </channel>
