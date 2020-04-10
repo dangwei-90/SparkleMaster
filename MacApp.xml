@@ -1,10 +1,16 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>title: test update VPN Proxy Master </title>
+        <title>VPN Proxy Master System Extention</title>
         <item>
-            <title>2.2.0</title>
-            <description>修复问题1                                                                     修复                32423423</description>
+            <title>2.2.1</title>
+            <pubDate>周五, 10 4月 2020 16:17:20 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/dangwei-90/SparkleMaster/master/VPN%20Proxy%20Master%20System%20Extention.zip" sparkle:version="23" sparkle:shortVersionString="2.2.1" length="12145067" type="application/octet-stream" sparkle:edSignature="zQxqGfwVNVpwb1sON0oDj/ChVBI/PFr/I9ps4WJSZgDVd50h/FS/w9FPa1WiBWKc66o1GzirysxRe+C/7IaRBw=="/>
+        </item>
+        <item>
+            <title>1.2.1</title>
+            <description>1.2.1</description>
             <pubDate>周三, 08 4月 2020 14:24:04 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
             <enclosure
