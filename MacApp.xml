@@ -2,32 +2,18 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>VPN Proxy Master System Extention</title>
-        <item>
-            <title>2.2.0</title>
-            <pubDate>周一, 13 4月 2020 10:40:15 +0800</pubDate>
+                <item>
+            <title>2.2.1</title>
+            <pubDate>周一, 13 4月 2020 11:03:05 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
             <enclosure 
-                url="https://raw.githubusercontent.com/dangwei-90/SparkleMaster/master/VPN%20Proxy%20Master%20System%20Extention.zip" 
-                sparkle:version="22" 
-                sparkle:shortVersionString="2.2.0" 
-                length="12143344" 
-                type="application/octet-stream"
-                sparkle:edSignature="MC4CFQDZ/ACFna2CiqVieb3/IXRIeLSMlgIVAMdmtvnucbNFkvMkuQy2vNE2Yb/y"
-            />
-        </item>
-        <item>
-            <title>1.2.1</title>
-            <description>1.2.1</description>
-            <pubDate>周三, 08 4月 2020 14:24:04 +0800</pubDate>
-            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://raw.githubusercontent.com/dangwei-90/SparkleMaster/master/VPNProxyMaster.pkg"
-                sparkle:shortVersionString="1.2.0"
-                sparkle:version="21"
-                length="13460204"
-                type="application/octet-stream"
-                sparkle:edSignature="4NEZzWhQDtkzRoW9nszzE3GRHFCoiGcBskHmfhxeZNmbRk6xFJiDfq+JemkEaId9h0As8vjTM2EvJsgNym9nCw=="
-            />
+                       url="https://raw.githubusercontent.com/dangwei-90/SparkleMaster/master/VPN%20Proxy%20Master%20System%20Extention.zip" 
+                       sparkle:version="20" 
+                       sparkle:shortVersionString="2.2.1" 
+                       length="12143382" 
+                       type="application/octet-stream" 
+                       sparkle:edSignature="FtgGyeOFMgEiAmJ+/ms1UpFpLYms8XD6ggfVcA4c1Re88U2dDJBcnTVnW6vDYI8tejzSDaSjima71B0jzaRADA=="
+             />
         </item>
     </channel>
 </rss>
