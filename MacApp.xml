@@ -2,7 +2,7 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>VPN Proxy Master System Extention</title>
-                <item>
+        <item>
             <title>2.2.1</title>
             <pubDate>周一, 13 4月 2020 11:03:05 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
@@ -13,6 +13,18 @@
                        length="12143382" 
                        type="application/octet-stream" 
                        sparkle:edSignature="FtgGyeOFMgEiAmJ+/ms1UpFpLYms8XD6ggfVcA4c1Re88U2dDJBcnTVnW6vDYI8tejzSDaSjima71B0jzaRADA=="
+             />
+        </item>
+        <item>
+            <title>2.2.1</title>
+            <pubDate>周一, 13 4月 2020 11:03:05 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure 
+                       url="https://raw.githubusercontent.com/dangwei-90/SparkleMaster/master/VPN%20Proxy%20Master%20System%20Extention.zip" 
+                       sparkle:version="20" 
+                       sparkle:shortVersionString="2.2.1" 
+                       length="12143382" 
+                       type="application/octet-stream" 
                        sparkle:edSignature="MCwCFBYpNqz89dCmut6aGPP2iAwupo8EAhR2Sp3NFo/g8n+ikCbnTz46dLvWig=="
              />
         </item>
