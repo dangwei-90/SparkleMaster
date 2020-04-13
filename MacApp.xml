@@ -3,16 +3,17 @@
     <channel>
         <title>VPN Proxy Master System Extention</title>
         <item>
-            <title>2.2.1-new</title>
-            <pubDate>周五, 10 4月 2020 18:52:07 +0800</pubDate>
+            <title>2.2.0</title>
+            <pubDate>周一, 13 4月 2020 10:40:15 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/dangwei-90/SparkleMaster/master/VPN%20Proxy%20Master%20System%20Extention.zip" sparkle:version="22" sparkle:shortVersionString="2.2.1" length="10411179" type="application/octet-stream" sparkle:edSignature="3WcaGdeYBHOdSxiJOAc0+ZtujjWGO16T2zxGGmHMwMIk4WbqBycjWjdEYEaGBTpxmm5HK7ndi3W0Ys5FOMKjDw=="/>
-        </item>
-        <item>
-            <title>2.2.1</title>
-            <pubDate>周五, 10 4月 2020 16:17:20 +0800</pubDate>
-            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/dangwei-90/SparkleMaster/master/VPN%20Proxy%20Master%20System%20Extention.zip" sparkle:version="23" sparkle:shortVersionString="2.2.1" length="12145067" type="application/octet-stream" sparkle:edSignature="zQxqGfwVNVpwb1sON0oDj/ChVBI/PFr/I9ps4WJSZgDVd50h/FS/w9FPa1WiBWKc66o1GzirysxRe+C/7IaRBw=="/>
+            <enclosure 
+                url="https://raw.githubusercontent.com/dangwei-90/SparkleMaster/master/VPN%20Proxy%20Master%20System%20Extention.zip" 
+                sparkle:version="22" 
+                sparkle:shortVersionString="2.2.0" 
+                length="12143344" 
+                type="application/octet-stream"
+                sparkle:edSignature="MC4CFQDZ/ACFna2CiqVieb3/IXRIeLSMlgIVAMdmtvnucbNFkvMkuQy2vNE2Yb/y"
+            />
         </item>
         <item>
             <title>1.2.1</title>
